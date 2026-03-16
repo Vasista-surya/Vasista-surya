@@ -14,9 +14,7 @@
 ### 🌐 Social Links:
 <p align="left">
 
-<a href="https://github.com/Vasista-surya" target="blank">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+
 
 <a href="https://www.linkedin.com/in/vasista-surya-c-505141338/" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
