@@ -22,11 +22,18 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+
+
+</p>
+
+---
+### PORTFOLIO:
+<p align="center">
 <a href="https://vasista-surya.github.io/Portfolio/" target="blank">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
-
 </p>
+
 
 ---
 
