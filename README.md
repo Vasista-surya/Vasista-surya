@@ -36,5 +36,4 @@
 
 ---
 
-### ⚡ Fun Fact:
-> "Code like a beast 💻 Train like a warrior 🏋️ Stay disciplined 🔥"
+
