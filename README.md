@@ -6,7 +6,6 @@
 - 📫 How to reach me: **vasistasuryac@gmail.com**
 - 🎓 Passionate about Algorithms & Web Development
 - 🧠 Always learning new technologies
-- 💪 I love Fitness, Discipline & Self Growth 🏋️🔥
 - 🎯 Focused on building real-world projects
 
 ---
